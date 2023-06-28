@@ -8,9 +8,11 @@ Contact information:
 Phone: +7 707 627606
 E-mail:  inna.ignashkova@gmail.com
 Telegram: @inessa
+GitHub: 7inessa
+
 ***
 Briefly About Myself:
-Remote work as a retoucher gives me extra free time, which I spend learning Frontend Development.
+
 I’m interested in Web Development because this occupation provides endless possibilities for professional growth,
 besides there’s a huge amount of free high quality resources for self-education and a large community of developers.
 
@@ -37,6 +39,21 @@ function peak(arr) {
   }
   return -1;
 }
-~~
-Native Russian
-Computer literacy 
+```
+===
+#Courses:
+HTML and CSS Tutorials on the w3schools (completed)
+W3Schools Score
+JavaScript Manual on learnjavascript.ru (in progress)
+RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+CS50 lectures
+FreeCodeCamp
+HTML Academy
+===
+#Languages:
+English -I use application in smartphone: Duolingo and I use google translate a lot.
+Russian - Native
+
+
+
+
